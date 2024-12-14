@@ -96,9 +96,10 @@ En la fila de separación de las cabeceras (`|-|`) se puede definir la alineaci�
 - `:-` Alinea la columna a la izquierda
 - `:-:` Alinea la columna al centro
 - `-:` Alinea la columna a la derecha
-
+```markdown
 | Tarea | Progreso | Finalizada |
 |:-|-:|:-:|
 |Toma de requisitos|100%|SÍ|
 |Desarrollo del módulo principal|68%|NO|
 |Documentación|0%|NO|
+```
